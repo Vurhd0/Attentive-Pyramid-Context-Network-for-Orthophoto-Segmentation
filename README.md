@@ -1,7 +1,6 @@
 # ML4Earth_foundation_model_for_Earth_observation
 # ML4Earth
-This repository contains the final submission we made as a team while participating in the ML4Earth hackathon (https://ml4earth24.devpost.com/).
-As a part of the hackathon, we are required to provide a segmentation map for the Landcover.ai Dataset.
+
 
 ## Semantic segmentation of LandCover.ai dataset
 
