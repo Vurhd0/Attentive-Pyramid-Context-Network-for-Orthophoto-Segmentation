@@ -1,5 +1,5 @@
-# ML4Earth_foundation_model_for_Earth_observation
-# ML4Earth
+# Attentive Pyramid Context Network for Orthophoto Segmentation
+# Machine Learning CS301
 
 
 ## Semantic segmentation of LandCover.ai dataset
